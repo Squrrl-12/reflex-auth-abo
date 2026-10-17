@@ -5,3 +5,5 @@
 __pycache__/
 *.pyc
 .states/
+AGENTS.md
+CLAUDE.md
